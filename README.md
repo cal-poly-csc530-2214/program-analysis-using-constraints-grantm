@@ -15,3 +15,7 @@ Slowing grasping the relevance of the work and want to try and go through the cl
 
 Ah, so I is initially just a guess? We need to find a general enough I that we can solve for
 I don't get why I needs to be a 'disjunction of two linear combinations of the given input variables plus a constant term' but I also havent read the paper again yet so maybe that will provide insight
+
+The first half of the paper makes much more sense as I can walk through examples better, but we don't seem as interested in the second half?
+
+I'm also not sure as to where Z3 fits into this so maybe that will be a good thing to bring up on thursday.
