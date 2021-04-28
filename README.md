@@ -19,3 +19,13 @@ I don't get why I needs to be a 'disjunction of two linear combinations of the g
 The first half of the paper makes much more sense as I can walk through examples better, but we don't seem as interested in the second half?
 
 I'm also not sure as to where Z3 fits into this so maybe that will be a good thing to bring up on thursday.
+
+## Another Check in
+
+downloaded z3 and got it running on provided test file.
+
+Going to play around with it for a bit but think I've poured a lot of time into this all.
+
+Going to review class example again and pipeline from given to z3 accessible 
+
+
